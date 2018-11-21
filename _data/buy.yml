@@ -386,6 +386,12 @@
    countries: af
    logo: bitpesa.png
    url: https://www.bitpesa.co/
+   
+ - exchange: Guava
+   description: The easiest way to Buy and sell bitcoins in Nigeria with low transaction fees.
+   countries: af
+   logo: guavaexchange.png
+   url: https://guava.africa/
 
 ############## Mexico ##############
 
